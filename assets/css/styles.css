@@ -1,0 +1,23 @@
+#page-header{
+    text-align: center;
+    background-color:#3d6488;
+    font-family: sans-serif;
+    color: white
+}
+
+
+.left-div{
+    height: 100%; 
+}
+
+.card-body{
+    background-color: #3d6488;
+    color: white;
+}
+
+#searchbutton{
+    background-color: #3d6488;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 2px; 
+}
