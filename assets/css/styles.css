@@ -15,9 +15,21 @@
     color: white;
 }
 
-#searchbutton{
+#searchButton{
     background-color: #3d6488;
     color: white;
     font-family: sans-serif;
     border-radius: 2px; 
+}
+
+.listButton{
+    background-color: #3d6488;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-radius: 2px; 
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
