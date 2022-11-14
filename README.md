@@ -1,1 +1,1 @@
-# weather-dashboard
+The weather dashboard is the perfect place to find the weather for a specific city you're looking in! It will provide you with a five day weather forecast.
